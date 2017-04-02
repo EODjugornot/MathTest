@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">MathTest</string>
+
+    <!-- Global Strings -->
+    <string name="skillLvl">Skill Level</string>
+    <string name="mathOperation">Math Operation</string>
+    <string name="ansDefault">ANSWER</string>
+    <string name="noAns">0</string>
+    <string name="incorrect">Number of Incorrect Answers: </string>
+    <string name="correct">Number of Correct Answers: </string>
+
+    <!-- Buttons -->
+    <string name="submit">CHECK</string>
+    <string name="close">CLOSE</string>
+    <string name="btnNext">NEXT</string>
+    <string name="start">START</string>
+
+    <!-- Difficulty -->
+    <string name="easy">Easy</string>
+    <string name="med">Medium</string>
+    <string name="hard">Hard</string>
+
+    <!-- Operators -->
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="randomOperator">Random</string>
+    <string name="equals">=</string>
+
+</resources>
